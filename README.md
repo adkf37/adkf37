@@ -105,29 +105,6 @@ Tech: Python, scikit-learn, geopandas · Status: prototype
 excess-mortality — excess-death pipeline & demographic breakdowns.
 Tech: R and Python notebooks · Status: maintained
 
-(If you'd like, I can fetch your real repo list and populate this section automatically.)
-
-Full repository catalogue
-Option A — Manual: paste your repo list (name, 1-line description, primary language).
-Option B — Automatic: I can fetch your public repositories and insert a sortable table with columns: Repository, Description, Language, Stars, Updated.
-
-To trigger automatic fetch, reply: "Please fetch my public repos." I attempted to fetch them but the GitHub read call failed (see note below). If you prefer, paste repo names here (or pick up to 8 featured repos) and I will finish the README.
-Example automatic table format:
-
-Repository	Description	Language	Stars	Updated
-repo-name	Short description	Python	★ 0	2025-10-16
-Notebooks, data & demos
-Demo / Colab links: add any live demos or Colabs here.
-Data sources: list (Census, BLS, city open data, WHO, Our World in Data, Economist datasets, etc.)
-Publications & notes
-Add papers or preprints here with links and BibTeX.
-How to cite / License
-If using the code or analyses: please cite the repo and any related paper. Add license files to each repo (MIT, CC-BY, or as you prefer).
-
-Contact & links
-Website: https://your-website.example
-Email: your.email@example.com
-Twitter/X: @yourhandle
 LinkedIn / Google Scholar / ORCID links
 Next steps I can do for you
 Populate the Featured and Full catalogue automatically by fetching your public repos (requires permission/working GitHub API). I attempted this but hit an API/tool error (see note below).
