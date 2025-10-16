@@ -1,6 +1,6 @@
 # Research Catalogue & Repository Index
 
-> A compact, navigable summary of my research ideas and project themes.This page catalogues my research questions and links them to various repositories so visitors can quickly find code, papers, and research directions. Obviously a work in progress...
+> A compact, navigable summary of my research ideas and project themes. This page catalogues my research questions and links them to various repositories so visitors can quickly find code, papers, and research directions. Obviously a work in progress...
 
 ---
 
